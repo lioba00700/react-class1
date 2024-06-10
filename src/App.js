@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './woodstock.png'
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          2학년 1반 8번 박민서
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          프론트엔드 개발자
         </a>
       </header>
     </div>
